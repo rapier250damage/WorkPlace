@@ -1,0 +1,10 @@
+127.0.0.1 - - [01/Apr/2019:22:17:51 +0300] "GET / HTTP/1.1" 404 1094
+127.0.0.1 - - [01/Apr/2019:22:17:52 +0300] "GET /spring-mvc-demo/ HTTP/1.1" 200 264
+127.0.0.1 - - [01/Apr/2019:22:17:55 +0300] "GET /spring-mvc-demo/customer/showForm HTTP/1.1" 200 789
+127.0.0.1 - - [01/Apr/2019:22:18:04 +0300] "POST /spring-mvc-demo/customer/processForm HTTP/1.1" 200 982
+127.0.0.1 - - [01/Apr/2019:22:18:08 +0300] "POST /spring-mvc-demo/customer/processForm HTTP/1.1" 500 8970
+127.0.0.1 - - [01/Apr/2019:22:18:17 +0300] "POST /spring-mvc-demo/customer/processForm HTTP/1.1" 500 8970
+127.0.0.1 - - [01/Apr/2019:22:18:43 +0300] "POST /spring-mvc-demo/customer/processForm HTTP/1.1" 200 982
+127.0.0.1 - - [01/Apr/2019:22:21:12 +0300] "POST /spring-mvc-demo/customer/processForm HTTP/1.1" 200 982
+127.0.0.1 - - [01/Apr/2019:22:21:16 +0300] "POST /spring-mvc-demo/customer/processForm HTTP/1.1" 500 8970
+127.0.0.1 - - [01/Apr/2019:22:21:25 +0300] "POST /spring-mvc-demo/customer/processForm HTTP/1.1" 200 909

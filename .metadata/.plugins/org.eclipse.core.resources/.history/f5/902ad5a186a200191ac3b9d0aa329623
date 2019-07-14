@@ -1,0 +1,10 @@
+info.app.name=My super cool app
+info.app.description=A crazy fun app
+info.app.version=1.0.0
+
+
+# enable all endpoints
+management.endpoints.web.exposure.include=*
+
+#exclude some endpoints - 404 error
+management.endpoints.web.exposure.include=health,info

@@ -1,0 +1,10 @@
+package com.example.cruddemo.rest;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+@RequestMapping("/api")
+public class EmployeeRestController {
+
+	
+}

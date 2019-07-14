@@ -1,0 +1,11 @@
+127.0.0.1 - - [26/Mar/2019:22:25:07 +0300] "GET /spring-mvc-demo/processFormVersionTwo?studentName=john HTTP/1.1" 200 145
+127.0.0.1 - - [26/Mar/2019:22:33:36 +0300] "GET /spring-mvc-demo/ HTTP/1.1" 200 144
+127.0.0.1 - - [26/Mar/2019:22:33:40 +0300] "GET /spring-mvc-demo/showForm HTTP/1.1" 200 285
+127.0.0.1 - - [26/Mar/2019:22:33:42 +0300] "GET /spring-mvc-demo/processFormVersionThree?studentName= HTTP/1.1" 200 137
+127.0.0.1 - - [26/Mar/2019:22:33:44 +0300] "GET /spring-mvc-demo/processFormVersionThree?studentName= HTTP/1.1" 200 137
+127.0.0.1 - - [26/Mar/2019:22:34:05 +0300] "GET / HTTP/1.1" 404 1094
+127.0.0.1 - - [26/Mar/2019:22:34:06 +0300] "GET /spring-mvc-demo/ HTTP/1.1" 500 10636
+127.0.0.1 - - [26/Mar/2019:22:37:09 +0300] "GET / HTTP/1.1" 404 1094
+127.0.0.1 - - [26/Mar/2019:22:37:12 +0300] "GET /spring-mvc-demo/ HTTP/1.1" 200 150
+127.0.0.1 - - [26/Mar/2019:22:37:15 +0300] "GET /spring-mvc-demo/hello/showForm HTTP/1.1" 200 285
+127.0.0.1 - - [26/Mar/2019:22:37:20 +0300] "GET /spring-mvc-demo/hello/processFormVersionThree?studentName=qew HTTP/1.1" 200 143
